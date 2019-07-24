@@ -1,3 +1,0 @@
-https://pip.pypa.io/en/latest/installing/ => pip kurulumu
-pip3 install requests
-pip3 install beautifulsoup4
